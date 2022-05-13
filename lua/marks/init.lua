@@ -189,6 +189,9 @@ local function setup_autocommands()
 end
 
 function M.setup(config)
+  vim.notify([[I have recently changed my github username. please
+  update your plugin managers to pull from 'chentoast/marks.nvim'
+  instead. thanks and sorry for the inconvenience!]])
   M.mark_state = mark.new()
   M.mark_state.builtin_marks = config.builtin_marks or {}
 
