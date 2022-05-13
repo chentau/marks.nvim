@@ -1,3 +1,5 @@
+# NOTE: I have recently changed my github username, and the new version of this repo can be found [here](https://github.com/chentoast/marks.nvim). This version will still work but will not be kept up to date. Thanks, and sorry for the inconvenience.
+
 # marks.nvim
 A better user experience for interacting with and manipulating Vim marks.
 Requires Neovim 0.5+.
